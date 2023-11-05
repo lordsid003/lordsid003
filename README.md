@@ -2,6 +2,10 @@
 
 [![An image of @lordsid003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lordsid003)](https://holopin.io/@lordsid003)
 
+## 🚩 Completed HACKTOBERFEST 2023 
+<img src="https://github.com/lordsid003/lordsid003/assets/119743101/2b5081bb-48f8-4c50-9cbd-06166faed805" width="400" style="text-align: center;">
+<br>
+
 ### Academics
 2nd year student at Maharaja Surajmal Institute Of Technology, New Delhi
 
