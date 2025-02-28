@@ -22,8 +22,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lordsid003&show_icons=true&locale=en&theme=dracula" alt="stats" height="200" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordsid003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lordsid003&show_icons=true&locale=en&theme=dracula" alt="stats" height="150" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordsid003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br/>
