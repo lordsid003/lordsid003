@@ -1,109 +1,98 @@
-### Hi there 👋, I am Siddharth Verma
+<h1 align="center">Hi 👋, I'm Siddharth Verma</h1>
+<h3 align="center">React Native Developer and Freelancer</h3>
 
-[![An image of @lordsid003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lordsid003)](https://holopin.io/@lordsid003)
+<img src="https://boards.holopin.io/lordsid003?raw=true"/>
 
-## 🚩 Completed HACKTOBERFEST 2023:
-<img src="https://github.com/lordsid003/lordsid003/assets/119743101/2b5081bb-48f8-4c50-9cbd-06166faed805" width="400" style="text-align: center;">
-<br>
+### ABOUT ME
 
-## Academics:
-2nd year student at Maharaja Surajmal Institute Of Technology, New Delhi
+🔭 Currently working on: [ProcessPilot (Process automation tool for businesses)](https://github.com/lordsid003/ProcessPilot)
 
-## Interests:
-- Beat-boxing 🎼
-- Programming 🖥️
-- Graphics Design 🖱️
-- Game Development 🎮
-- Sketching 🖌️
+🌱 I’m currently learning: **Java**
 
-## Technology Skills:
-- <b><i>Frontend</i></b>: Designing UI elements from scratch/ frameworks for aesthetic designs
-<br>
-<div>
-  <span>
-    <img src="https://github.com/lordsid003/lordsid003/assets/119743101/4ab6ddb1-6a32-45e5-ac70-d6a97555ad49?raw=true" width="150">&ensp;
-    <img src="https://www.computerhope.com/jargon/j/javascript.png?raw=true" width="100">&ensp;
-    <img src="https://github.com/lordsid003/lordsid003/assets/119743101/8eab5969-e043-42c0-b5a7-b1649e3b8957" width="130" height="120">
-  </span>
-</div>
-<br>
+👨‍💻 Freelance Portfolio: [https://siddharthverma.vercel.app](https://siddharthverma.vercel.app)
 
-- <b><i>Backend</i></b>: Integrating API, database requests, server-side HTTP requests anb controlling application functioning
-<br>
-<div>
-  <span>
-    <img src="https://buttercms.com/static/images/tech_banners/Flask.716baf905d79.png?raw=true" width="150">&ensp;
-    <img src="https://github.com/lordsid003/lordsid003/assets/119743101/5266e964-7950-4885-aea6-8125b63c7982" width="180">&ensp;
-    <img src="https://github.com/lordsid003/lordsid003/assets/119743101/7f08ba17-f53b-4dd3-8da1-13964b0312a2?raw=true" width="160">&ensp;
-    <img src="https://github.com/lordsid003/lordsid003/assets/119743101/7b3ddf49-ef5f-4ca5-8c4a-ccb8bb824584?raw=true" width="150">
+💬 Ask me about: **App Development, Performance optimizations, LLMs and more...**
 
-  </span>
-</div>
-<br>
+📫 Reach me at: **siddhverma2003@gmail.com**
 
-- <b><i>Machine Learning</i></b>: Training softwares called models aimed to change the domain of traditional programming with AI
-<br>
-<div>
-  <span>
-    <img src="https://cdn-images-1.medium.com/max/1200/1*eFRgat2Iy6wZpi_DEItKgA.png?raw=true" width="150" height="100">&ensp;
-    <img src="https://escape2020.github.io/school2022/img/numpy.png?raw=true" width="150" height="130">&ensp;
-    <img src="https://hutsons-hacks.info/wp-content/uploads/2020/09/1200px-Pandas_logo.svg_-1-1024x414.png?raw=true" width="200" height="90">&ensp;
-  </span>
-</div>
-<br>
-<div>
-  <span>
-     <img src="https://neuraspike.com/wp-content/uploads/2020/12/matplotlib-logo.png?raw=true" width="200" height="60">&ensp;
-     <img src="https://github.com/lordsid003/lordsid003/assets/119743101/85b4496b-86b0-40d8-bfe1-ea3ab5c5f71c?raw=true" width="150">&ensp;
-     <img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png?raw=true" width="120" height="120">&ensp;
-  </span>
-</div>
-<br>
+📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1oUojj4VqlEwYWGMmjP6OIA517dm6BJne/view?usp=drive_link)
 
-- <b><i>Game Development</i></b>: The most fascinating and enthrilling domain to channelize art and ideas for audience to experience
- <br>
- <div>
-   <span>
-     <img src="https://th.bing.com/th/id/OIP.-9IMVwK227wl3OV8fUOCewHaEK?rs=1&pid=ImgDetMain?raw=true" width="180">&emsp;
-     <img src="https://github.com/lordsid003/lordsid003/assets/119743101/c5548964-c179-401b-8920-4ddb07c16a76" width="80">&emsp;
-     <img src="https://github.com/lordsid003/lordsid003/assets/119743101/0198392e-ff0d-415f-b7fe-4bc2043cf1d1?raw=true" width="80">&emsp;
-     <img src="https://github.com/lordsid003/lordsid003/assets/119743101/6ae553f4-7fc2-4e27-9eca-f058de81995b?raw=true" width="200">
-   </span>
+⚡ Want a beatbox jamming session? I got you!
 
- </div>
- <br>
+<br/>
 
-## Projects:
-
-- [Spaceship-Titanic](https://github.com/lordsid003/Spaceship-Titanic-): Kaggle Competition for Machine Learning. Predicts the survival of passengers
-- [Robota](https://github.com/lordsid003/Robota): A fun-game based on chrome's dino made using pure vanilla.js
-- [Cloning-Project](https://github.com/lordsid003/cloningProject): A meme-based cloning interface
-
-## Profile Link:
-
-<div>
-<img src="https://preview.redd.it/snd2gd8mqwy91.jpg?auto=webp&s=d917687241b4d87fa49654d3db0eff65f64c5f19" width="100">
-  
-[Siddharth Verma](https://github.com/lordsid003)
-</div>
-<div>
-  <img src="https://github.com/lordsid003/lordsid003/assets/119743101/666fd764-364b-4733-bbd7-a75bc46dc105?raw=true" width="100">
-
-  [Siddharth Verma](https://www.linkedin.com/in/siddharth-verma-53981a256/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lordsid003&show_icons=true&locale=en&theme=dracula" alt="stats" height="200" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordsid003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
+<br/>
 
-<!--
-**lordsid003/lordsid003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">SOCIALS:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/vermasiddh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermasiddh" height="30" width="40" /></a>
+<a href="https://kaggle.com/lordsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lordsid" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/siddhverma03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddhverma03" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/siddharth_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharth_verma" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">LANGUAGES AND TOOLS:</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordsid003&label=Profile%20views&color=0e75b6&style=flat" alt="lordsid003" /> </p>
